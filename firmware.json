@@ -2,8 +2,8 @@
   "Configurations": [
     {
       "Version": "3.4.17",
-      "URL": "https://ae46ljzwhd.execute-api.us-east-2.amazonaws.com/firmware.bin",
-      "MD5": "2961501890dfe4a29e094b3ef876f0fc" 
+      "URL": "https://ae46ljzwhd.execute-api.us-east-2.amazonaws.com",
+      "MD5": "2961501890dfe4a29e094b3ef876f0fc"
     }
   ]
 }
