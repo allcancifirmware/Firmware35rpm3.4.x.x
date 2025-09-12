@@ -2,8 +2,8 @@
   "Configurations": [
     {
       "Version": "3.4.17",
-      "URL": "https://ae46ljzwhd.execute-api.us-east-2.amazonaws.com/firmware.bin",
-      "MD5": "2961501890dfe4a29e094b3ef876f0fc"
+      "URL": "https://raw.githubusercontent.com/allcancifirmware/Firmware35rpm3.4.x.x/main/firmware.bin",
+      "MD5": "7bee570c895361bf3b3853a26af212d7"
     }
   ]
 }
