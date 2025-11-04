@@ -4,19 +4,19 @@ Este documento registra as principais alterações, melhorias e correções de b
 
 ---
 
-## [3.4.19] - YYYY-MM-DD
+## [3.4.19]
 ### 🚀 Melhorias
 * Modificação no tratamento do "NS", alterando o número de casas decimais utilizadas.
 
 ---
 
-## [3.4.18] - YYYY-MM-DD
+## [3.4.18]
 ### ✨ Novas Funcionalidades
 * Implementada rotina de reinício automático (watchdog) para garantir a estabilidade da placa.
 
 ---
 
-## [3.4.17] - YYYY-MM-DD
+## [3.4.17]
 ### ✨ Novas Funcionalidades
 * Adicionado suporte para sensor de nível (boia) sem necessidade de calibração prévia.
 * Implementada leitura via entrada analógica para o sensor "pincel".
@@ -24,7 +24,7 @@ Este documento registra as principais alterações, melhorias e correções de b
 
 ---
 
-## [3.4.16] - YYYY-MM-DD
+## [3.4.16]
 ### ✨ Novas Funcionalidades
 * Implementada a atualização de firmware remota (FOTA - Firmware Over-The-Air) via chip de dados (rede celular).
 
