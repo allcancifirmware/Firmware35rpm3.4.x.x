@@ -1,3 +1,31 @@
-# Firmware35rpm3.4.x.x
+# Histórico de Versões do Firmware
 
-###FILL_3.4.16_35_WIFI_ETH_CHIP_NEW_BUILD
+Este documento registra as principais alterações, melhorias e correções de bugs introduzidas em cada versão do firmware desta placa.
+
+---
+
+## [3.4.19] - YYYY-MM-DD
+### 🚀 Melhorias
+* Modificação no tratamento do "NS", alterando o número de casas decimais utilizadas.
+
+---
+
+## [3.4.18] - YYYY-MM-DD
+### ✨ Novas Funcionalidades
+* Implementada rotina de reinício automático (watchdog) para garantir a estabilidade da placa.
+
+---
+
+## [3.4.17] - YYYY-MM-DD
+### ✨ Novas Funcionalidades
+* Adicionado suporte para sensor de nível (boia) sem necessidade de calibração prévia.
+* Implementada leitura via entrada analógica para o sensor "pincel".
+* Adicionada lógica de configuração das boias via jumper físico na placa.
+
+---
+
+## [3.4.16] - YYYY-MM-DD
+### ✨ Novas Funcionalidades
+* Implementada a atualização de firmware remota (FOTA - Firmware Over-The-Air) via chip de dados (rede celular).
+
+---
