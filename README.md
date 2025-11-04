@@ -1,4 +1,8 @@
 # Histórico de Versões do Firmware
+![placaf_4_7](https://github.com/user-attachments/assets/c07053cb-b650-43f5-a99c-93787e50b322)
+![placav_4_7](https://github.com/user-attachments/assets/a58e544b-2575-4807-b30c-82ae95c7fd78)
+
+## Compatível com versão e placa 4.7
 
 Este documento registra as principais alterações, melhorias e correções de bugs introduzidas em cada versão do firmware desta placa.
 
