@@ -8,6 +8,11 @@ Este documento registra as principais alterações, melhorias e correções de b
 
 ---
 
+## [3.4.20]
+### 🚀 Melhorias
+* Atualização automática via wifi ou chip de dados.
+* melhoria na velocidade de download do firmware via wifi.
+
 ## [3.4.19]
 ### 🚀 Melhorias
 * Modificação no tratamento do "NS", alterando o número de casas decimais utilizadas.
