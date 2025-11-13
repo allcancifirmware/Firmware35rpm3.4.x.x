@@ -2,7 +2,7 @@
 
 ![placav_4_7](https://github.com/user-attachments/assets/b32cb6ed-6fda-414f-b610-d12b584248e6)
 
-## Compatível com versão e placa 4.7
+## Compatível com versão e placa 4.7 com jump
 
 Este documento registra as principais alterações, melhorias e correções de bugs introduzidas em cada versão do firmware desta placa.
 
