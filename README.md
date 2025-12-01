@@ -7,6 +7,11 @@
 Este documento registra as principais alterações, melhorias e correções de bugs introduzidas em cada versão do firmware desta placa.
 
 ---
+## [3.4.21]
+### 🚀 Melhorias
+* Mudança de posição do menu das boias.
+* Troca de conexão salvando o último estado da conexão. 
+
 
 ## [3.4.20]
 ### 🚀 Melhorias
